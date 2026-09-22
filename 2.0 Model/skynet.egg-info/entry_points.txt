@@ -1,0 +1,2 @@
+[console_scripts]
+skynet = skynet.cli:app

@@ -1,0 +1,1 @@
+"""Architecture templates for Skynet."""
